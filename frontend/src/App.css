@@ -1,0 +1,14 @@
+body{
+  background: #000;
+}
+.buttons_cont {
+  background: #000;
+  margin: 5px;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.buttons_cont  button{
+  margin: 10px;
+  cursor: pointer;
+}
